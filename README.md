@@ -94,6 +94,8 @@ If you use this work in your research, please consider citing:
 
 ## License and Acknowledgement
 
+This project includes modified material from the Physics-Aware Training (PAT) framework by the McMahon group (CC BY 4.0 license). 
+
 Special thanks to the McMahon group at Cornell University for developing the *Physics-Aware Training* (PAT) framework on which this project builds.
 - Original Paper:
 > Wright, L.G., Onodera, T., Stein, M.M. et al. Deep physical neural networks trained with backpropagation. _Nature_ **601**, 549–555 (2022). https://doi.org/10.1038/s41586-021-04223-6
@@ -103,4 +105,5 @@ The code in this repository is released under the following license:
 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 A copy of this license is given in this repository as [license.txt](https://github.com/mcmahon-lab/Physics-Aware-Training/blob/main/license.txt).
+
 
